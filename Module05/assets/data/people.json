@@ -1,0 +1,29 @@
+[
+	{
+	  "id": 1,
+	  "name": "Teks Viler",
+	  "username": "teks",
+	  "email": "teks.viler@gmail.com",
+	  "phone": "088538938",
+	  "gender": 2,
+	  "active": true
+	},
+	{
+	  "id": 2,
+	  "name": "Kit Teler",
+	  "username": "kit",
+	  "email": "kit.teler@gmail.com",
+	  "phone": "088538938",
+	  "gender": 2,
+	  "active": false
+	},
+	{
+	  "id": 3,
+	  "name": "Komandant Mark",
+	  "username": "mark",
+	  "email": "mark@gmail.com",
+	  "phone": "088538938",
+	  "gender": 2,
+	  "active": true
+	}
+]
